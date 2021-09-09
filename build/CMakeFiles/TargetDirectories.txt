@@ -1,0 +1,4 @@
+/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/CMakeFiles/rebuild_cache.dir
+/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/CMakeFiles/edit_cache.dir
+/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/CMakeFiles/testPointMover.dir
+/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/CMakeFiles/documentScanner.dir

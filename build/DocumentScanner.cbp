@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DocumentScanner"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Boost-1.75.0\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\boost_headers-1.75.0\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testPointMover">
+				<Option output="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/testPointMover" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DocumentScanner.h"/>
+					<Add directory="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DSUtilities.h"/>
+					<Add directory="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/CVPointMover.h"/>
+					<Add directory="/usr/local/Cellar/opencv/4.5.2/include/opencv4"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 testPointMover"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testPointMover/fast">
+				<Option output="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/testPointMover" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DocumentScanner.h"/>
+					<Add directory="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DSUtilities.h"/>
+					<Add directory="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/CVPointMover.h"/>
+					<Add directory="/usr/local/Cellar/opencv/4.5.2/include/opencv4"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 testPointMover/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="documentScanner">
+				<Option output="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/documentScanner" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DocumentScanner.h"/>
+					<Add directory="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DSUtilities.h"/>
+					<Add directory="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/CVPointMover.h"/>
+					<Add directory="/usr/local/Cellar/opencv/4.5.2/include/opencv4"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 documentScanner"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="documentScanner/fast">
+				<Option output="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/documentScanner" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DocumentScanner.h"/>
+					<Add directory="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DSUtilities.h"/>
+					<Add directory="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/CVPointMover.h"/>
+					<Add directory="/usr/local/Cellar/opencv/4.5.2/include/opencv4"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 documentScanner/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/CVPointMover.cpp">
+			<Option target="testPointMover"/>
+			<Option target="documentScanner"/>
+		</Unit>
+		<Unit filename="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/CVPointMover.h">
+			<Option target="testPointMover"/>
+			<Option target="documentScanner"/>
+		</Unit>
+		<Unit filename="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DSUtilities.cpp">
+			<Option target="testPointMover"/>
+			<Option target="documentScanner"/>
+		</Unit>
+		<Unit filename="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DSUtilities.h">
+			<Option target="testPointMover"/>
+			<Option target="documentScanner"/>
+		</Unit>
+		<Unit filename="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DocumentScanner.cpp">
+			<Option target="documentScanner"/>
+		</Unit>
+		<Unit filename="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DocumentScanner.h">
+			<Option target="documentScanner"/>
+		</Unit>
+		<Unit filename="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/main.cpp">
+			<Option target="documentScanner"/>
+		</Unit>
+		<Unit filename="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/testPointMover.cpp">
+			<Option target="testPointMover"/>
+		</Unit>
+		<Unit filename="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/../../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/../../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/../../../../../../usr/local/lib/cmake/opencv4/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/../../../../../../usr/local/lib/cmake/opencv4/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/../../../../../../usr/local/lib/cmake/Boost-1.75.0/BoostConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Boost-1.75.0\"/>
+		</Unit>
+		<Unit filename="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/../../../../../../usr/local/lib/cmake/Boost-1.75.0/BoostConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\Boost-1.75.0\"/>
+		</Unit>
+		<Unit filename="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/../../../../../../usr/local/lib/cmake/boost_headers-1.75.0/boost_headers-config-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\boost_headers-1.75.0\"/>
+		</Unit>
+		<Unit filename="/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/../../../../../../usr/local/lib/cmake/boost_headers-1.75.0/boost_headers-config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\boost_headers-1.75.0\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

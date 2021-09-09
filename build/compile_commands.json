@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DocumentScanner.h -I/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DSUtilities.h -I/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/CVPointMover.h -isystem /usr/local/Cellar/opencv/4.5.2/include/opencv4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -std=gnu++17 -o CMakeFiles/testPointMover.dir/testPointMover.cpp.o -c /Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/testPointMover.cpp",
+  "file": "/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/testPointMover.cpp"
+},
+{
+  "directory": "/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DocumentScanner.h -I/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DSUtilities.h -I/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/CVPointMover.h -isystem /usr/local/Cellar/opencv/4.5.2/include/opencv4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -std=gnu++17 -o CMakeFiles/testPointMover.dir/CVPointMover.cpp.o -c /Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/CVPointMover.cpp",
+  "file": "/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/CVPointMover.cpp"
+},
+{
+  "directory": "/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DocumentScanner.h -I/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DSUtilities.h -I/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/CVPointMover.h -isystem /usr/local/Cellar/opencv/4.5.2/include/opencv4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -std=gnu++17 -o CMakeFiles/testPointMover.dir/DSUtilities.cpp.o -c /Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DSUtilities.cpp",
+  "file": "/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DSUtilities.cpp"
+},
+{
+  "directory": "/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DocumentScanner.h -I/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DSUtilities.h -I/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/CVPointMover.h -isystem /usr/local/Cellar/opencv/4.5.2/include/opencv4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -std=gnu++17 -o CMakeFiles/documentScanner.dir/main.cpp.o -c /Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/main.cpp",
+  "file": "/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/main.cpp"
+},
+{
+  "directory": "/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DocumentScanner.h -I/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DSUtilities.h -I/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/CVPointMover.h -isystem /usr/local/Cellar/opencv/4.5.2/include/opencv4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -std=gnu++17 -o CMakeFiles/documentScanner.dir/DocumentScanner.cpp.o -c /Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DocumentScanner.cpp",
+  "file": "/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DocumentScanner.cpp"
+},
+{
+  "directory": "/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DocumentScanner.h -I/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DSUtilities.h -I/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/CVPointMover.h -isystem /usr/local/Cellar/opencv/4.5.2/include/opencv4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -std=gnu++17 -o CMakeFiles/documentScanner.dir/DSUtilities.cpp.o -c /Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DSUtilities.cpp",
+  "file": "/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DSUtilities.cpp"
+},
+{
+  "directory": "/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/build",
+  "command": "/usr/bin/clang++  -I/usr/local/include -I/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DocumentScanner.h -I/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/DSUtilities.h -I/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/CVPointMover.h -isystem /usr/local/Cellar/opencv/4.5.2/include/opencv4 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -std=gnu++17 -o CMakeFiles/documentScanner.dir/CVPointMover.cpp.o -c /Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/CVPointMover.cpp",
+  "file": "/Users/jorge/Cpp/Learning/OpenCVCourse/DocumentScannerProject/CVPointMover.cpp"
+}
+]
